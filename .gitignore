@@ -16,3 +16,5 @@ data/*.xlsx
 .vscode/
 .idea/
 .DS_Store
+
+.history
